@@ -1,6 +1,3 @@
-/**
- * Represents a weighted directed edge in a graph.
- */
 public class Edge {
     public int destination;
     public int weight;
